@@ -14,7 +14,7 @@ Penyelesaian tugas ini dibantu oleh AI dengan menggunakan prompt berikut:
 3. Clone repositori ini ke komputer Anda.
 4. Buka terminal dan arahkan ke dalam folder repositori ini.
 5. Download *dependencies* yang dibutuhkan dengan perintah:
-   ```bash
    go mod tidy
 6. Jalankan program dengan perintah:
+   ```bash
    go run main.go
