@@ -17,5 +17,4 @@ Penyelesaian tugas ini dibantu oleh AI dengan menggunakan prompt berikut:
    ```bash
    go mod tidy
 6. Jalankan program dengan perintah:
-    ```bash
    go run main.go
