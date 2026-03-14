@@ -16,3 +16,6 @@ Penyelesaian tugas ini dibantu oleh AI dengan menggunakan prompt berikut:
 5. Download *dependencies* yang dibutuhkan dengan perintah:
    ```bash
    go mod tidy
+6. Jalankan program dengan perintah:
+    ```bash
+   go run main.go
